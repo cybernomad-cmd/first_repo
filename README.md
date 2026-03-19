@@ -9,9 +9,7 @@
     </head>
 <body style="background-color: lightblue;">
 
-  <h1>Leon Muigai</h1>
-  <h2>About Me </h2>
-  <p> I am a software developer with a passion for creating innovative solutions to complex problems. With a strong background in computer science and experience in various programming languages, I have developed a wide range of applications, from web development to mobile app development. I am dedicated to continuous learning and staying up-to-date with the latest technologies in the industry. My goal is to contribute to the development of cutting-edge software that can make a positive impact on people's lives.</p>
+<p> I am a software developer with a passion for creating innovative solutions to complex problems. With a strong background in computer science and experience in various programming languages, I have developed a wide range of applications, from web development to mobile app development. I am dedicated to continuous learning and staying up-to-date with the latest technologies in the industry. My goal is to contribute to the development of cutting-edge software that can make a positive impact on people's lives.</p>
   <h3> My Hobbies</h3>
   <ul>
     <li>Playing Video Games</li>
